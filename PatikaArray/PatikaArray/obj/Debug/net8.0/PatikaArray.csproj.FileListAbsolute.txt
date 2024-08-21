@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\bin\Debug\net8.0\PatikaArray.exe
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\bin\Debug\net8.0\PatikaArray.deps.json
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\bin\Debug\net8.0\PatikaArray.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\bin\Debug\net8.0\PatikaArray.dll
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\bin\Debug\net8.0\PatikaArray.pdb
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.dll
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\refint\PatikaArray.dll
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.pdb
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\PatikaArray.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaArray\PatikaArray\obj\Debug\net8.0\ref\PatikaArray.dll
