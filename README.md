@@ -1,1 +1,1 @@
-# PatikaArray
+İlk olarak 10 elemanlı bir dizi oluşturuldu. for döngüsü ile diziye kullanıcıdan alınan sayılar eklendi ve daha sonrasında foreach kullanılarak konsola yazdırıldı. Diziye yeni bir eleman eklemek için ilk başta dizinin boyutu arttırıldı. Eski dizi elemanları, Array.Copy komutuyla yeni diziye kopyalandı. Son indekse, yeni sayı değeri atandı. Array.Sort ile ilk başta küçükten büyüğe, daha sonra Array.reverse kullanılarak dizi elemanları tersine sıralama ile büyükten küçüğe yazdırılmış oldu. 
